@@ -8,7 +8,3 @@
 * Working Safely
   - Online Safety & Citizenship
   - Ergonomics
-
-## Game Design & Programming 1
-
-## Game Design & Programming 2
