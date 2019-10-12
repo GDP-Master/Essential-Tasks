@@ -1,3 +1,6 @@
+---
+#
+---
 # Games & Society
 
 Resources for lessons on the social impacts of video games and other interactive experiences.
