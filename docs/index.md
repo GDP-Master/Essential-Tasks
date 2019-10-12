@@ -3,6 +3,6 @@
 * Employing An Iterative Design Process
 * Creating Digital Prototypes
 * Exploring Career Options in Game Design & Programming
-* Working Safely
+* [Working Safely](safety)
   - Online Safety & Citizenship
   - Ergonomics
