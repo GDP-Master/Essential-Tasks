@@ -9,6 +9,6 @@
   - Online Safety & Citizenship
   - Ergonomics
 
-## Game Design & Pragramming 1
+## Game Design & Programming 1
 
 ## Game Design & Programming 2
