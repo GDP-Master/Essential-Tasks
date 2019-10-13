@@ -1,6 +1,8 @@
 # Safety
 
+* Physical Safety
+  - Ergonomics
 * Online Safety & Citizenship
-* Ergonomics
 * Workplace Behavior
   - Hostile environments
+* Customer / Client Safety
