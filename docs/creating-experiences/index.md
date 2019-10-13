@@ -1,4 +1,4 @@
-# Creating Prototypes Of Games & Other Interactive Experiences
+# Prototyping Games & Other Interactive Experiences
 
 **GDP1:** By the end of the course you should be able to:
 
