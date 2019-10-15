@@ -16,6 +16,12 @@
 * [30 Things Every Unity Developer Should Know](https://cgcookie.com/articles/30-things-every-unity-developer-should-know)
 * [The 10 Most Common Mistakes That Unity Developers Make](https://www.toptal.com/unity-unity3d/top-unity-development-mistakes)
 
+### Tutorials
+
+* [Ray Wenderlich](https://www.raywenderlich.com/unity)
+  - [Procedural Generation Of Mazes With Unity](https://www.raywenderlich.com/82-procedural-generation-of-mazes-with-unity)
+  - [How to Make a Chess Game with Unity](https://www.raywenderlich.com/5441-how-to-make-a-chess-game-with-unity)
+
 ### Tests
 
 * [Testing Test-Driven Development with the Unity Test Runner](https://blogs.unity3d.com/2018/11/02/testing-test-driven-development-with-the-unity-test-runner)
